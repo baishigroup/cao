@@ -1,7 +1,6 @@
 <component name="libraryTable">
   <library name="Maven: junit:junit:4.11">
     <CLASSES>
-<<<<<<< HEAD
       <root url="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11.jar!/" />
     </CLASSES>
     <JAVADOC>
@@ -9,15 +8,6 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.m2/repository/junit/junit/4.11/junit-4.11-sources.jar!/" />
-=======
-      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
-    </CLASSES>
-    <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-javadoc.jar!/" />
-    </JAVADOC>
-    <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/" />
->>>>>>> hero
     </SOURCES>
   </library>
 </component>
